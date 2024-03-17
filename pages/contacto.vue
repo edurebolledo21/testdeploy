@@ -24,7 +24,7 @@
           cols="30"
           rows="10"
         ></textarea>
-        <label for="write">what's problem?</label>
+        <label for="write">what'ss problem?</label>
       </div>
       <button
         class="hover:bg-slate-500 transition-all duration-500 rounded-md w-16"
