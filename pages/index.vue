@@ -7,7 +7,7 @@
     </h1>
     <br />
     <ul>
-      <li><NuxtLink to="contacto">CONTACT</NuxtLink></li>
+      <li><NuxtLink to="contacto">CONTACTO</NuxtLink></li>
       <li><NuxtLink to="servicios">SERVICES</NuxtLink></li>
     </ul>
   </div>
